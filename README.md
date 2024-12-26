@@ -15,8 +15,15 @@ I'm Konstantin, a Master's student in Biomedical Engineering specializing in Rob
 ## 🎯 Current Focus  
 - Building a webdev business
 - Finishing my Master's
-- Exploring the field of AI for different purposes such as RL in Games and Robotics and image analysis for medical purposes
+- Exploring the field of AI for different purposes such as RL in Games and Robotics and Image Analysis for Medical purposes
 - Writing an entertainment book: *Wenn ich Diktator bin* 📖
+
+
+<details>
+  <summary>📖 My Coding Journey</summary>
+  I started coding during highschool where we had a robotics class in which we programmed small arduino projects. This sparked my interest for the matter eventho I barely got what I was doing at the time. I had a lot of fun with these projects and therefore decided to pursue a bachelors in both computer engineering and biomedical engineering at TU Darmstadt. At the time I only knew C++ but my basic skills proved to be helpfull as we had to program Java in our CS classes. From here I explored many different languages such as Matlab, JavaScript and Python, which I program the most these days. I have had 2 research positions focusing on App Development and Data Engineering mostly. I am eager to learn new stuff every day expanding my view on anything tech related. Whether it is building simple scripts or developing complex models, coding has become an integral part of my life.
+</details>
+
 
 ## 🤝 Let's Connect!  
 - [LinkedIn](https://de.linkedin.com/in/konstantin-preu%C3%9Fer-0408a4327)  
