@@ -1,5 +1,5 @@
 # Hi there! 👋  
-I'm Konstantin, an developer with a M.Sc. in Medical Engineering specializing in Robotics and Medical Data Science. I'm passionate about Software. In particular DeepLearning in Healthcare, WebDev and Robotics are my current main interests. 
+I'm Konstantin, a developer with a M.Sc. in Medical Engineering specializing in Robotics and Medical Data Science. I'm passionate about Software. In particular DeepLearning in Healthcare, WebDev and Robotics are my current main interests. 
 
 ## 🛠️ Skills & Tools  
 - **Programming**: Python, Java, MATLAB, C/C++, JavaScript
@@ -13,8 +13,7 @@ I'm Konstantin, an developer with a M.Sc. in Medical Engineering specializing in
 - [**German Snowfinder Website**](https://github.com/1Preusse/WoLiegtSchnee): Webtool to show the next area with snow reportings.
 
 ## 🎯 Current Focus  
-- Building a webdev business
-- Finishing my Master's
+- Finding the path for the next years
 - Exploring the field of AI for different purposes such as RL in Games and Robotics and Image Analysis for Medical purposes
 - Writing an entertainment book: *Wenn ich Diktator bin* 📖
 
@@ -33,6 +32,7 @@ I'm Konstantin, an developer with a M.Sc. in Medical Engineering specializing in
 - I hate eye-rolling so much, I’m dedicating a chapter to it in my book.  
 - Massaging peoples necks relaxes my brain.
 - I don't understand why building tunnels is so expensive.
+- Swimming freestyle feels more natural than walking to me.
 
 ---
 
