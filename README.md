@@ -1,5 +1,5 @@
 # Hi there! 👋  
-I'm Konstantin, a Master's student in Biomedical Engineering specializing in Robotics and Medical Data Science. I'm passionate about Software. In particular DeepLearning in Healthcare, WebDev and Robotics are my current main interests. 
+I'm Konstantin, an developer with a M.Sc. in Medical Engineering specializing in Robotics and Medical Data Science. I'm passionate about Software. In particular DeepLearning in Healthcare, WebDev and Robotics are my current main interests. 
 
 ## 🛠️ Skills & Tools  
 - **Programming**: Python, Java, MATLAB, C/C++, JavaScript
