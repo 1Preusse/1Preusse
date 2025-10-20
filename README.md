@@ -1,11 +1,11 @@
 # Hi there! 👋  
-I'm Konstantin, a Master's student in Biomedical Engineering specializing in Robotics and Medical Data Science. I'm passionate about Software. In particular AI in Healthcare, WebDev and Robotics are my current main interests. 
+I'm Konstantin, a Master's student in Biomedical Engineering specializing in Robotics and Medical Data Science. I'm passionate about Software. In particular DeepLearning in Healthcare, WebDev and Robotics are my current main interests. 
 
 ## 🛠️ Skills & Tools  
 - **Programming**: Python, Java, MATLAB, C/C++, JavaScript
 - **AI/ML Frameworks**: PyTorch, PEFT, Keras, TensorFlow
-- **Tools**: Git, SQL, ROS, Gurobi, React, Electron
-- **Specialties**: LoRa, Graph Theory, Energy Science
+- **Tools**: Git, SQL, ROS, Gurobi, React, Electron, HPC
+- **Specialties**: DeepLearning, LoRa, Graph Theory, Energy Science
 
 ## 🚀 Projects  
 - [**LLM Fine-Tuning**](https://github.com/1Preusse/exprep_LLM): A text classification project using classical finetuning and LoRA for open-source LLM models.  
