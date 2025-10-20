@@ -32,7 +32,7 @@ I'm Konstantin, a developer with a M.Sc. in Medical Engineering specializing in 
 - I hate eye-rolling so much, I’m dedicating a chapter to it in my book.  
 - Massaging peoples necks relaxes my brain.
 - I don't understand why building tunnels is so expensive.
-- Swimming freestyle feels more natural than walking to me.
+- In my opinion swimming freestyle feels more natural than walking.
 
 ---
 
