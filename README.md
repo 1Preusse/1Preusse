@@ -1,11 +1,11 @@
 # Hi there! 👋  
-I'm Konstantin, a developer with a M.Sc. in Medical Engineering specializing in Robotics and Medical Data Science. I'm passionate about Software. In particular DeepLearning in Healthcare, WebDev and Robotics are my current main interests. 
+I'm Konstantin, a PhD Student at TU Darmstadt, Germany. I'm working on Brain-Computer-Interfaces with Robotics. I'm passionate about Software. In particular DeepLearning for medical purposes and robotics are my current main interests. 
 
 ## 🛠️ Skills & Tools  
 - **Programming**: Python, Java, MATLAB, C/C++, JavaScript
 - **AI/ML Frameworks**: PyTorch, PEFT, Keras, TensorFlow
 - **Tools**: Git, SQL, ROS, Gurobi, React, Electron, HPC
-- **Specialties**: DeepLearning, LoRa, Graph Theory, Energy Science
+- **Specialties**: DeepLearning, EEG, LoRa, Graph Theory, Energy Science
 
 ## 🚀 Projects  
 - [**LLM Fine-Tuning**](https://github.com/1Preusse/exprep_LLM): A text classification project using classical finetuning and LoRA for open-source LLM models.  
@@ -33,6 +33,7 @@ I'm Konstantin, a developer with a M.Sc. in Medical Engineering specializing in 
 - Massaging peoples necks relaxes my brain.
 - I don't understand why building tunnels is so expensive.
 - In my opinion swimming freestyle feels more natural than walking.
+- According to one of my colleauges home office means more home and less office.
 
 ---
 
